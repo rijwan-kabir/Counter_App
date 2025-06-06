@@ -6,12 +6,13 @@ body {
 button {
   padding: 10px 20px;
   font-size: large;
+  font-weight: bold;
 }
 
 #count {
   font-size: 48px;
   margin: 50px;
-  border: 2px solid #00796b;
+  border: 5px solid #00796b;
   border-radius: 10px;
   color: #2c2727;
   font-weight: bold;
